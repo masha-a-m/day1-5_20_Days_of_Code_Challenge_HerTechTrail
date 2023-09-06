@@ -40,13 +40,16 @@ I started this project a week ago. It was a bit hectic for me but with research 
 - CSS Styling
 - JavaScript
 
-### What I Learned 
+### What I Learnt
 
 I leant how to make a sign up form with many CSS components
 
 
 ### Useful Resources 
 
+https://codereview.stackexchange.com/questions/114760/student-registration-form
+
+https://stackoverflow.com/questions/20260798/creating-registration-form
 
 
 
